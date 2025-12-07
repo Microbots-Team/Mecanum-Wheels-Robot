@@ -1,10 +1,20 @@
 # 🤖 Mecanum Wheels Robot
-A fully mobile robot built with **ESP32** and **omnidirectional Mecanum wheels**, enabling smooth movement in any direction—forward, sideways, diagonally, and full rotation.  
-The robot is controlled through a custom mobile app and equipped with an ultrasonic sensor for basic obstacle awareness.
+
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
 
 ---
 
+
 ## 💡 Project Overview
+
+A fully mobile robot built with **ESP32** and **omnidirectional Mecanum wheels**, enabling smooth movement in any direction—forward, sideways, diagonally, and full rotation.  
+The robot is controlled through a custom mobile app and equipped with an ultrasonic sensor for basic obstacle awareness.
+
 This project showcases a versatile omnidirectional robot using Mecanum wheels.  
 With four independently driven DC motors and ESP32-based wireless control, the robot can perform complex movements that traditional wheel robots cannot.  
 A mobile app communicates with the ESP32 over Wi-Fi , allowing users to manually drive the robot or trigger predefined motion patterns.
