@@ -47,6 +47,7 @@ The ultrasonic sensor adds basic environmental awareness, enabling safer and mor
 
 ## 👨‍💻 Contributors:
 
+- **Amer Alsaour**  [LinkedIn](https://www.linkedin.com/in/amer-alsaour-026898193/)
 - **Ahmad Sheikh Daher** [LinkedIn](https://www.linkedin.com/in/ahmad-sheikh-daher/)  
 
 ---
